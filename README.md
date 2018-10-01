@@ -34,6 +34,9 @@ A VS Code extension to debug your JavaScript code in the Google Chrome browser, 
 * Any features that aren't script debugging.
 
 ## Getting Started
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9d0b494cdfc14c85b507b6af29467e78)](https://app.codacy.com/app/foggg7777/vscode-chrome-debug?utm_source=github.com&utm_medium=referral&utm_content=foggg7777/vscode-chrome-debug&utm_campaign=Badge_Grade_Dashboard)
+
 1. [Install the extension](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 2. Restart VS Code and open the folder containing the project you want to work on.
 
